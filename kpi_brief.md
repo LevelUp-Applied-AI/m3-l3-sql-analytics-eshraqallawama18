@@ -1,18 +1,5 @@
 # KPI Brief — Levant Tech Solutions
 
-## KPI 1: [Name]
-
-**Definition:**
-**Current value:**
-**Interpretation:**
-
-## KPI 2: [Name]
-
-**Definition:**
-**Current value:**
-**Interpretation:**
-
-## KPI 3: [Name]# KPI Brief — Levant Tech HR & Project Management
 
 ## KPI 1 — Department Salary Efficiency
 **Definition:** Total salary expenditure per department ÷ number of employees in the department  
